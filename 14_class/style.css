@@ -1,0 +1,35 @@
+.img1{
+	float: right;
+}
+
+.img2{
+	float: left;
+}
+p{
+	clear: both;
+}
+
+a:hover{
+	color: black;
+	background-color: red;
+}
+
+/* h2:nth-child(3n){
+	color: red;
+} */
+
+h2:first-of-type{
+	color: blue;
+}
+
+p::first-letter{
+	color: red;
+	font-size: 50px;
+
+}
+
+h3::first-line{
+	color: green;
+	font-size: 50px;
+}
+

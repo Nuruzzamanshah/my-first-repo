@@ -1,0 +1,21 @@
+.flaxfox{
+	background-color: aqua;
+	font-size: 35px;
+	display: flex;
+	/* flex-wrap: wrap; */
+	flex-flow: wrap row;
+	height: 400px;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.flaxfox > div{
+	background-color: gray;
+	margin: 5px;
+	padding: 5px;
+	width: 100px;
+}
+./* flaxfox > div:nth-child(5){
+	order: 1;
+	
+} */

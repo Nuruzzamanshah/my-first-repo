@@ -1,0 +1,25 @@
+img{
+	width: 400px;
+	height: 200px;
+}
+img:hover{
+	opacity: 0.5;
+}
+
+.bg{
+	width: 300px;
+	height: 400px;
+	background-image: url('images.jpg');
+	background-repeat: no-repeat;
+	overflow: hidden;
+}
+.box p{
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+	background-color: green;
+	padding: 10px;
+	margin-top: 100px;
+	opacity: 0.5;
+	
+}

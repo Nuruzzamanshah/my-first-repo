@@ -1,0 +1,8 @@
+h1{
+	color: blue;
+	text-transform: capitalize;
+	text-indent: 45px;
+	letter-spacing: 10px;
+	word-spacing: 30px;
+	line-height: 50px;
+}
